@@ -43,7 +43,8 @@
 
 ## 📌 Featured Project
 
-### 🥗 NeatoFood – Food Price Comparison Web App
+### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/YOUR_USERNAME/NeatoFood)
+
 Hackathon-winning full-stack web application.
 
 - 🏆 Best Presentation – Let’s Hack Leicester 2025
