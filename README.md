@@ -70,6 +70,6 @@ Algorithmic trading system built for a competitive coding challenge.
 
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/jenith-s/
+- LinkedIn: [https://linkedin.com/in/jenith-s/]
 - Email: jeniths006@gmail.com
 
