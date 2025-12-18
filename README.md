@@ -40,32 +40,33 @@
 - FFuf
 
 ---
-
-## 📌 Featured Project
-
-### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/jeniths006/NeatoFood)
-
-Hackathon-winning full-stack web application.
-
-- 🏆 Best Presentation – Let’s Hack Leicester 2025
-- Spring Boot REST API backend
-- MySQL database for structured data
-- Google Places API for ratings & reviews
-- Automated review summarisation
-
+## 📌 Featured Projects
 
 ### 🏋️ [AI Fitness & Nutrition Planner (In Progress)](https://github.com/jeniths006/AIWorkoutApp)
-Personal fitness and diet planning application inspired by Hevy and MyFitnessPal.
+Backend-first fitness platform combining workout tracking, progression analytics,
+nutrition planning, and AI-assisted coaching.
 
-- Workout tracking (sets, reps, weights)
-- Nutrition logging and calorie tracking
-- AI-assisted recommendations for:
-  - Training volume and progressive overload
-  - Dietary adjustments based on goals
-- Focus on personalised, data-driven insights
+- Spring Boot backend with PostgreSQL
+- Dockerised local development
+- Structured to support analytics and AI insights
+- 🚧 Actively under development
 
-🚧 Actively under development
+### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/jeniths006/NeatoFood)
+Hackathon-winning full-stack application.
 
+- 🏆 Best Presentation – Let’s Hack Leicester 2025
+- Spring Boot REST API and MySQL
+- Google Places API integration
+- Built and delivered in a team environment
+
+### 🔐 Cybersecurity CTF Writeups
+Collection of solved CTF challenges covering web exploitation, forensics,
+and enumeration techniques.
+
+### 📈 Automated Trading System (Python)
+Algorithmic trading system built for a competitive coding challenge.
+
+---
 
 
 ## 📫 Contact
