@@ -43,7 +43,7 @@
 
 ## 📌 Featured Project
 
-### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/YOUR_USERNAME/NeatoFood)
+### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/jeniths006/NeatoFood)
 
 Hackathon-winning full-stack web application.
 
@@ -54,7 +54,7 @@ Hackathon-winning full-stack web application.
 - Automated review summarisation
 
 
-### 🏋️ AI Fitness & Nutrition Planner (In Progress)
+### 🏋️ [AI Fitness & Nutrition Planner (In Progress)](https://github.com/jeniths006/AIWorkoutApp)
 Personal fitness and diet planning application inspired by Hevy and MyFitnessPal.
 
 - Workout tracking (sets, reps, weights)
