@@ -54,6 +54,20 @@ Hackathon-winning full-stack web application.
 - Automated review summarisation
 
 
+### 🏋️ AI Fitness & Nutrition Planner (In Progress)
+Personal fitness and diet planning application inspired by Hevy and MyFitnessPal.
+
+- Workout tracking (sets, reps, weights)
+- Nutrition logging and calorie tracking
+- AI-assisted recommendations for:
+  - Training volume and progressive overload
+  - Dietary adjustments based on goals
+- Focus on personalised, data-driven insights
+
+🚧 Actively under development
+
+
+
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/jenith-s/
 - Email: jeniths006@gmail.com
