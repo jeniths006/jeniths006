@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi 👋 I'm Jenith
 
-<!--
-**jeniths006/jeniths006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the University of Leicester (Predicted First Class)  
+🔐 Interested in backend development and cybersecurity  
 
-Here are some ideas to get you started:
+- 🧠 Teaching Assistant for Programming & Discrete Mathematics  
+- 🏆 1st Place – Cyberwomen@Leicester x CGI Greenhat CTF  
+- 🥈 2nd Place – Morgan Stanley x LeicesterCS Coding Challenge  
+- 🚀 Actively applying for internships and graduate roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- C#
+- SQL
+- Bash
+
+### Backend & Web
+- Spring Boot
+- REST APIs
+- MySQL
+- Postman
+- IBM MQ
+
+### Cybersecurity
+- Web Exploitation (SQLi, XSS, CSRF)
+- Cryptography
+- CTFs (TryHackMe)
+
+### Tools
+- Git & GitHub
+- Linux
+- Burp Suite
+- Nmap
+- FFuf
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/jenith-s/
+- Email: jeniths006@gmail.com
+
