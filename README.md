@@ -41,6 +41,18 @@
 
 ---
 
+## 📌 Featured Project
+
+### 🥗 NeatoFood – Food Price Comparison Web App
+Hackathon-winning full-stack web application.
+
+- 🏆 Best Presentation – Let’s Hack Leicester 2025
+- Spring Boot REST API backend
+- MySQL database for structured data
+- Google Places API for ratings & reviews
+- Automated review summarisation
+
+
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/jenith-s/
 - Email: jeniths006@gmail.com
