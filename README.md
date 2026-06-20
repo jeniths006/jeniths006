@@ -42,6 +42,15 @@
 ---
 ## 📌 Featured Projects
 
+🛡️ [API Vulnerability Fuzzer – Automated Security Testing Web App (In Progress) ](https://github.com/jeniths006/API-Fuzzer)
+Full-stack security tool built to systematically discover endpoint vulnerabilities.
+
+- Actively architecting and building the core fuzzing engine
+- Spring Boot REST API and Spring Data JPA
+- React dashboard for real-time threat visualization
+- Custom Java engine for payload execution (SQLi, XSS)
+
+
 ### 🏋️ [AI Fitness & Nutrition Planner (In Progress)](https://github.com/jeniths006/AIWorkoutApp)
 Backend-first fitness platform combining workout tracking, progression analytics,
 nutrition planning, and AI-assisted coaching.
