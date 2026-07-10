@@ -1,5 +1,8 @@
 ## Hi 👋 I'm Jenith
 
+#Events and Socials Co-ordinator @ LeicesterCS
+#Events Officer @ Cyberwomen@Leicester
+
 🎓 Computer Science student at the University of Leicester (Predicted First Class)  
 🔐 Interested in backend development and cybersecurity  
 
