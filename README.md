@@ -1,87 +1,23 @@
-## Hi 👋 I'm Jenith
+<p align="center">
+  <img src="./assets/header.svg" width="100%">
+</p>
 
-#Events and Socials Co-ordinator @ LeicesterCS
-#Events Officer @ Cyberwomen@Leicester
+<p align="center">
+  <img src="./assets/about.svg" width="100%">
+</p>
 
-🎓 Computer Science student at the University of Leicester (Predicted First Class)  
-🔐 Interested in backend development and cybersecurity  
+<p align="center">
+  <img src="./assets/skills.svg" width="100%">
+</p>
 
-- 🧠 Teaching Assistant for Programming & Discrete Mathematics  
-- 🏆 1st Place – Cyberwomen@Leicester x CGI Greenhat CTF  
-- 🥈 2nd Place – Morgan Stanley x LeicesterCS Coding Challenge  
-- 🚀 Actively applying for internships and graduate roles  
+<p align="center">
+  <img src="./assets/projects.svg" width="100%">
+</p>
 
----
+<p align="center">
+  <img src="./assets/gh-stats.svg" width="100%">
+</p>
 
-## 🛠 Tech Stack
-
-### Languages
-- Python
-- Java
-- JavaScript
-- C#
-- SQL
-- Bash
-
-### Backend & Web
-- Spring Boot
-- REST APIs
-- MySQL
-- Postman
-- IBM MQ
-
-### Cybersecurity
-- Web Exploitation (SQLi, XSS, CSRF)
-- Cryptography
-- CTFs (TryHackMe)
-
-### Tools
-- Git & GitHub
-- Linux
-- Burp Suite
-- Nmap
-- FFuf
-
----
-## 📌 Featured Projects
-
-🛡️ [API Vulnerability Fuzzer – Automated Security Testing Web App (In Progress) ](https://github.com/jeniths006/API-Fuzzer)
-Full-stack security tool built to systematically discover endpoint vulnerabilities.
-
-- Actively architecting and building the core fuzzing engine
-- Spring Boot REST API and Spring Data JPA
-- React dashboard for real-time threat visualization
-- Custom Java engine for payload execution (SQLi, XSS)
-
-
-### 🏋️ [AI Fitness & Nutrition Planner (In Progress)](https://github.com/jeniths006/AIWorkoutApp)
-Backend-first fitness platform combining workout tracking, progression analytics,
-nutrition planning, and AI-assisted coaching.
-
-- Spring Boot backend with PostgreSQL
-- Dockerised local development
-- Structured to support analytics and AI insights
-- 🚧 Actively under development
-
-### 🥗 [NeatoFood – Food Price Comparison Web App](https://github.com/jeniths006/NeatoFood)
-Hackathon-winning full-stack application.
-
-- 🏆 Best Presentation – Let’s Hack Leicester 2025
-- Spring Boot REST API and MySQL
-- Google Places API integration
-- Built and delivered in a team environment
-
-### 🔐 Cybersecurity CTF Writeups
-Collection of solved CTF challenges covering web exploitation, forensics,
-and enumeration techniques.
-
-### 📈 Automated Trading System (Python)
-Algorithmic trading system built for a competitive coding challenge.
-
----
-
-
-## 📫 Contact
-- LinkedIn: [https://linkedin.com/in/jenith-s/]
-- Email: jeniths006@gmail.com
-
+<p align="center">
+  <img src="./assets/footer.svg" width="100%">
+</p>
