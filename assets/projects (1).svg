@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+<defs>
+<filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="60"/></filter>
+<filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000" flood-opacity=".5"/></filter>
+<radialGradient id="p"><stop offset="0" stop-color="#7c3aed" stop-opacity=".55"/><stop offset=".6" stop-color="#7c3aed" stop-opacity=".18"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="c"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".6" stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="m"><stop offset="0" stop-color="#f472b6" stop-opacity=".55"/><stop offset=".6" stop-color="#f472b6" stop-opacity=".18"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<radialGradient id="v"><stop offset="50%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".45"/></radialGradient>
+<style>
+.blob{animation:d 12s ease-in-out infinite}.b2{animation-delay:-4s}.b3{animation-delay:-8s}
+@keyframes d{0%,100%{transform:translate(0,0)}25%{transform:translate(35px,-25px)}50%{transform:translate(0,-45px)}75%{transform:translate(-35px,-20px)}}
+.p{animation:p 3s ease-in-out infinite}.q1{animation-delay:-.6s}.q2{animation-delay:-1.2s}.q3{animation-delay:-1.8s}
+@keyframes p{0%,100%{opacity:.15}50%{opacity:.32}}
+text{font-family:Inter,system-ui,sans-serif}
+</style></defs>
+<rect width="800" height="520" fill="#0b0b12"/>
+<g filter="url(#b)"><circle class="blob" cx="224" cy="286" r="220" fill="url(#p)"/><circle class="blob b2" cx="576" cy="234" r="240" fill="url(#c)"/><circle class="blob b3" cx="400" cy="536" r="200" fill="url(#m)"/></g>
+<rect width="800" height="520" fill="url(#v)"/>
+<g fill="#fff" class="p"><circle cx="92" cy="90" r="1.2"/><circle class="q1" cx="728" cy="112" r="1.2"/><circle class="q2" cx="414" cy="470" r="1.2"/><circle class="q3" cx="622" cy="48" r="1.2"/><circle cx="174" cy="390" r="1.2"/><circle class="q1" cx="550" cy="322" r="1.2"/><circle class="q2" cx="344" cy="72" r="1.2"/><circle class="q3" cx="690" cy="418" r="1.2"/></g>
+<g filter="url(#s)"><rect x="30" y="24" width="740" height="472" rx="18" fill="rgba(255,255,255,.04)"/></g>
+<rect x="30.5" y="24.5" width="739" height="471" rx="18" fill="none" stroke="rgba(255,255,255,.12)"/>
+<rect x="31.5" y="25.5" width="737" height="469" rx="17" fill="none" stroke="rgba(255,255,255,.06)"/>
+<text x="62" y="68" fill="#f5f5f7" font-size="22" font-weight="700">Featured Projects</text>
+<text x="62" y="91" fill="#f5f5f7" opacity=".55" font-size="12">Things I build, break, and learn from.</text>
+
+<!-- cards -->
+<g><a href="https://github.com/jeniths006/RuntimeGuard"><rect x="52" y="116" width="334" height="158" rx="14" fill="rgba(255,255,255,.045)" stroke="rgba(255,255,255,.12)"/><rect x="53.5" y="117.5" width="331" height="155" rx="13" fill="none" stroke="#7c3aed" stroke-opacity=".16"/><text x="72" y="148" fill="#f5f5f7" font-size="16" font-weight="700">RuntimeGuard</text><text x="72" y="170" fill="#f5f5f7" opacity=".62" font-size="11">Policy-Based Execution Sandbox</text><text x="72" y="198" fill="#f5f5f7" opacity=".72" font-size="11">Windows runtime monitoring with ETW,</text><text x="72" y="216" fill="#f5f5f7" opacity=".72" font-size="11">policy evaluation, and native JNA integration.</text><text x="72" y="249" fill="#22d3ee" font-family="monospace" font-size="10">Java  •  ETW  •  JNA  •  Security</text></a></g>
+<g><a href="https://github.com/jeniths006/API-Fuzzer"><rect x="414" y="116" width="334" height="158" rx="14" fill="rgba(255,255,255,.045)" stroke="rgba(255,255,255,.12)"/><rect x="415.5" y="117.5" width="331" height="155" rx="13" fill="none" stroke="#22d3ee" stroke-opacity=".16"/><text x="434" y="148" fill="#f5f5f7" font-size="16" font-weight="700">API Vulnerability Fuzzer</text><text x="434" y="170" fill="#f5f5f7" opacity=".62" font-size="11">Automated API Security Testing</text><text x="434" y="198" fill="#f5f5f7" opacity=".72" font-size="11">Custom Java fuzzing engine with a</text><text x="434" y="216" fill="#f5f5f7" opacity=".72" font-size="11">Spring Boot backend and React dashboard.</text><text x="434" y="249" fill="#22d3ee" font-family="monospace" font-size="10">Java  •  Spring  •  React  •  API Security</text></a></g>
+<g><a href="https://github.com/jeniths006/NeatoFood"><rect x="52" y="294" width="334" height="158" rx="14" fill="rgba(255,255,255,.045)" stroke="rgba(255,255,255,.12)"/><rect x="53.5" y="295.5" width="331" height="155" rx="13" fill="none" stroke="#f472b6" stroke-opacity=".16"/><text x="72" y="326" fill="#f5f5f7" font-size="16" font-weight="700">NeatoFood</text><text x="72" y="348" fill="#f5f5f7" opacity=".62" font-size="11">Food Price Comparison Web App</text><text x="72" y="376" fill="#f5f5f7" opacity=".72" font-size="11">Hackathon-winning full-stack application</text><text x="72" y="394" fill="#f5f5f7" opacity=".72" font-size="11">built with Spring Boot, MySQL and Places API.</text><text x="72" y="427" fill="#f472b6" font-family="monospace" font-size="10">Best Presentation  •  Let's Hack Leicester 2025</text></a></g>
+<g><a href="https://github.com/jeniths006/AIWorkoutApp"><rect x="414" y="294" width="334" height="158" rx="14" fill="rgba(255,255,255,.045)" stroke="rgba(255,255,255,.12)"/><rect x="415.5" y="295.5" width="331" height="155" rx="13" fill="none" stroke="#7c3aed" stroke-opacity=".16"/><text x="434" y="326" fill="#f5f5f7" font-size="16" font-weight="700">AI Fitness Planner</text><text x="434" y="348" fill="#f5f5f7" opacity=".62" font-size="11">Backend-First Fitness Platform</text><text x="434" y="376" fill="#f5f5f7" opacity=".72" font-size="11">Workout tracking, progression analytics,</text><text x="434" y="394" fill="#f5f5f7" opacity=".72" font-size="11">nutrition planning and AI-assisted coaching.</text><text x="434" y="427" fill="#7c3aed" font-family="monospace" font-size="10">Spring Boot  •  PostgreSQL  •  Docker</text></a></g>
+<text x="738" y="477" fill="#f5f5f7" opacity=".3" font-family="monospace" font-size="9" text-anchor="end">click a project to explore</text>
+<rect x=".5" y=".5" width="799" height="519" rx="14" fill="none" stroke="rgba(255,255,255,.05)"/>
+</svg>
